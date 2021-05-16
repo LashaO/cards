@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<apport>
+  <ignore program="/usr/lib/mongodb-compass/MongoDB Compass" mtime="1604494950"/>
+</apport>
