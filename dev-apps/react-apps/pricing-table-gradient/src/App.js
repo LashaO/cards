@@ -57,6 +57,7 @@ function App() {
           </div>
           <Continue />
         </div>
+        <p>sometext</p>
 
         <div className="omega">
           <h2>Unlimited</h2>
